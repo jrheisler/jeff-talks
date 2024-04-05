@@ -112,10 +112,10 @@ class _MyHomePageState extends State<MyHomePage> {
                   color: Colors.black,
                 ),
 
-               /* inLineComment('Post Apocalyptic Western \n with TJ Reeder'),
+               inLineComment('Post Apocalyptic Western \n with TJ Reeder'),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/horror_books.json?alt=media&token=f96244fc-6a30-4659-8afe-376a41d4d7be'),
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/tj_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -138,7 +138,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   indent: 20,
                   endIndent: 20,
                   color: Colors.black,
-                ),*/
+                ),
                 inLineComment("Drama Books"),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
