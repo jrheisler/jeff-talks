@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "555720783066",
+    "project_id": "jeff-talks",
+    "storage_bucket": "jeff-talks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:555720783066:android:7fda4106bc3de5b98921e3",
+        "android_client_info": {
+          "package_name": "com.example.jeff_talks"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAMUEQK7oC9qPqzErBU4Bak0xoWyqMn0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
