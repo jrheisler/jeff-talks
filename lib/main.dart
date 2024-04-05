@@ -87,7 +87,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 inLineComment('A Study in Horror \n with Charles Welch'),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/horror_books.json?alt=media&token=99b3cecc-08ab-4e84-88a3-30d3d27f6f73'),
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/horror_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -142,7 +142,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 inLineComment("Drama Books"),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/drama_books.json?alt=media&token=792d53e7-5a31-46dc-91f0-4b72e4749ded'),
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/drama_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -171,7 +171,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 inLineComment("Informative Books"),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/info_books.json?alt=media&token=52c7ad96-82c9-4594-92ab-df3531a12ad2'),
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/info_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -198,7 +198,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 inLineComment('Poetry'),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/poetry_books.json?alt=media&token=59e1d37a-51d1-42d6-89fa-4585091100c6'),
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/poetry_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -226,7 +226,7 @@ class _MyHomePageState extends State<MyHomePage> {
                 inLineComment("Children's Books"),
                 FutureBuilder<List<Book>>(
                   future: Book.fetchBooksFromUrl(
-                      'https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/children_books.json?alt=media&token=f061e677-929a-464e-9907-b5d6f4f7d3c9'),
+                    'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/children_books.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
