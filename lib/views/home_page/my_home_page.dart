@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:jeff_talks/models/cats.dart';
 
 import '../../common/animation_card.dart';
 import '../../common/common.dart';
@@ -62,10 +63,9 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
             SliverList(
               delegate: SliverChildListDelegate([
-                inLineComment('A Study in Horror \n with Charles Welch'),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/horror_books.json'),
+                FutureBuilder<List<Category>>(
+                  future: Category.fetchCategoryFromUrl(
+                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/cats.json'),
                   builder: (context, snapshot) {
                     if (snapshot.connectionState == ConnectionState.waiting) {
                       return const Center(child: CircularProgressIndicator());
@@ -74,162 +74,24 @@ class _MyHomePageState extends State<MyHomePage> {
                     } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
                       return const Center(child: Text('No data available'));
                     } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
+                      final cats = snapshot.data!;
+                      List<Widget> widgets = [];
+                      for (var cat in cats) {
+                        widgets.add(inLineComment(cat.about));
+                        widgets.add(animationBookCards(dimens, cat.books));
+                      }
+                      return Padding(
+                        padding: const EdgeInsets.all(8.0),
+                        child: Wrap(
+                            spacing: 24,
+                            runSpacing: 24,
+                            alignment: WrapAlignment.center,
+                            runAlignment: WrapAlignment.center,
+                            children: widgets),
+                      );
                     }
                   },
                 ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-
-                inLineComment('Post Apocalyptic Western \n with TJ Reeder'),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/tj_books.json'),
-                  builder: (context, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const Center(child: CircularProgressIndicator());
-                    } else if (snapshot.hasError) {
-                      return Center(child: Text('Error: ${snapshot.error}'));
-                    } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-                      return const Center(child: Text('No data available'));
-                    } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
-                    }
-                  },
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-                inLineComment("Drama Books"),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/drama_books.json'),
-                  builder: (context, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const Center(child: CircularProgressIndicator());
-                    } else if (snapshot.hasError) {
-                      return Center(child: Text('Error: ${snapshot.error}'));
-                    } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-                      return const Center(child: Text('No data available'));
-                    } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
-                    }
-                  },
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-
-
-                inLineComment("Informative Books"),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/info_books.json'),
-                  builder: (context, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const Center(child: CircularProgressIndicator());
-                    } else if (snapshot.hasError) {
-                      return Center(child: Text('Error: ${snapshot.error}'));
-                    } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-                      return const Center(child: Text('No data available'));
-                    } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
-                    }
-                  },
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-                inLineComment('Poetry'),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/poetry_books.json'),
-                  builder: (context, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const Center(child: CircularProgressIndicator());
-                    } else if (snapshot.hasError) {
-                      return Center(child: Text('Error: ${snapshot.error}'));
-                    } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-                      return const Center(child: Text('No data available'));
-                    } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
-                    }
-                  },
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-
-                inLineComment("Children's Books"),
-                FutureBuilder<List<Book>>(
-                  future: Book.fetchBooksFromUrl(
-                      'https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/children_books.json'),
-                  builder: (context, snapshot) {
-                    if (snapshot.connectionState == ConnectionState.waiting) {
-                      return const Center(child: CircularProgressIndicator());
-                    } else if (snapshot.hasError) {
-                      return Center(child: Text('Error: ${snapshot.error}'));
-                    } else if (!snapshot.hasData || snapshot.data!.isEmpty) {
-                      return const Center(child: Text('No data available'));
-                    } else {
-                      final books = snapshot.data!;
-                      return animationBookCards(dimens, books);
-                    }
-                  },
-                ),
-                const SizedBox(
-                  height: 20,
-                ),
-                const Divider(
-                  height: 2,
-                  thickness: 2,
-                  indent: 20,
-                  endIndent: 20,
-                  color: Colors.black,
-                ),
-
-
 
                 inLineComment('Contact:\njrheisler@yahoo.com\nAsk about a free review copy'),
               ], addAutomaticKeepAlives: true),

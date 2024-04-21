@@ -1,4 +1,8 @@
+import 'dart:convert';
+
 import 'book.dart';
+import 'package:http/http.dart' as http;
+import 'dart:io';
 
 class Category {
   final String name;
@@ -29,5 +33,15 @@ class Category {
           .map((bookJson) => Book.fromJson(bookJson))
           .toList(),
     );
+  }
+  // Fetch and parse JSON data from a URL
+  static Future<List<Category>> fetchCategoryFromUrl(String jsonUrl) async {
+    final response = await http.get(Uri.parse(jsonUrl));
+    if (response.statusCode == 200) {
+      final List<dynamic> jsonList = json.decode(response.body);
+      return jsonList.map((json) => Category.fromJson(json)).toList();
+    } else {
+      throw Exception('Failed to load data from the URL');
+    }
   }
 }
