@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Horror Books",
+    "category": "Horror",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/horror_books.json",
+    "about": "A Study in Horror \n with Charles Welch",
+    "image": ""
+  },
+  {
+    "name": "Western Books",
+    "category": "Western",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/tj_books.json",
+    "about": "Post Apocalyptic Western \n with TJ Reeder",
+    "image": ""
+  },
+  {
+    "name": "Drama Books",
+    "category": "Drama",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/drama_books.json",
+    "about": "Drama Books",
+    "image": ""
+  },
+  {
+    "name": "Informative Books",
+    "category": "Informative",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/info_books.json",
+    "about": "Informative Books",
+    "image": ""
+  },
+  {
+    "name": "Poetry Books",
+    "category": "Poetry",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/poetry_books.json",
+    "about": "Poetry Books",
+    "image": ""
+  },
+  {
+    "name": "Children's Books",
+    "category": "Children",
+    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/children_books.json",
+    "about": "Children's Books",
+    "image": ""
+  }
+]

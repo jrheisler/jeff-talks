@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 
 import '../../common/animation_card.dart';
 import '../../common/common.dart';
+import '../../common/my_email.dart';
 import '../../models/books.dart';
 
 class MyHomePage extends StatefulWidget {
@@ -22,6 +23,22 @@ class _MyHomePageState extends State<MyHomePage> {
         body: CustomScrollView(
           slivers: [
             SliverAppBar(
+              actions: [
+                Padding(
+                  padding: const EdgeInsets.all(8.0),
+                  child: ElevatedButton(
+                    onPressed: () {
+                      MyEmail myEmail = MyEmail('jrheisler@yahoo.com', 'Jeff Talks Email', 'Please send me Review Codes for - ');
+                      myEmail.send();
+                    },
+                    style: ElevatedButton.styleFrom(
+                        elevation: 12.0,
+                        textStyle: const TextStyle(color: Colors.white)),
+                    child: const Text('Email Jeff'),
+                  ),
+                ),
+
+              ],
               backgroundColor: Colors.deepOrange,
               pinned: true,
               collapsedHeight: 60,

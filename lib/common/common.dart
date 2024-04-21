@@ -1,5 +1,12 @@
 import 'package:flutter/material.dart';
 
+
+
+const String appTitle = 'Jeff Talks';
+const String appEmail = 'jrheisler@yahoo.com';
+const String version = '.010';
+
+
 const kPrimaryColor = Colors.deepPurple;
 
 Container inLineComment(String text) {
@@ -36,19 +43,19 @@ TextStyle kShadow(double size) { return  TextStyle(
 //outline text
       Shadow(
 // bottomLeft
-          offset: Offset(-1.5, -1.5),
+          offset: Offset(-1, -1),
           color: Colors.black),
       Shadow(
 // bottomRight
-          offset: Offset(1.5, -1.5),
+          offset: Offset(1, -1),
           color: Colors.black),
       Shadow(
 // topRight
-          offset: Offset(1.5, 1.5),
+          offset: Offset(1, 1),
           color: Colors.black),
       Shadow(
 // topLeft
-          offset: Offset(-1.5, 1.5),
+          offset: Offset(-1, 1),
           color: Colors.black),
     ]);}
 
