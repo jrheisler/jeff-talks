@@ -1,44 +1,297 @@
 [
   {
     "name": "Horror Books",
-    "category": "Horror",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/horror_books.json",
     "about": "A Study in Horror \n with Charles Welch",
-    "image": ""
+    "books": [
+      {
+        "name": "Coming Up Short",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror/dp/B0CNDZT34S",
+        "about": "A husband and wife find themselves repeating the same scene over and over\nas something large looms in the sky above them.\n \nAn old woman who takes \ncare of her Alzheimer’s inflicted husband is exasperated when she realizes\nhe believes that his mother is at their front door. Her mother-in-law, who \nhas been dead for many years. She wants to show him he’s wrong, however, opening \nthe door to prove it to him is a bad idea. Something is waiting for them, lurking \nin the fog beyond the safety of their home\nTwo teenage boys spend a Saturday\ntogether, but a practical joke they play gets out of hand. When they seriously \ninjure a girl from their school, going on the run seems the only way out of\ntrouble. Entering a door inside a deserted department store moves them a million \nmiles from home with someone who has revenge on her mind\nComing Up Short is a \ncollection of 10 tales of the macabre by the author of the award winning Within the '\n'Fog series. \nWarning: These stories will keep you awake, nervously chewing at your fingernails, '\ncringing at every little creak of your home. Our reality may not be what you have been\nled to believe",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus1.webp?alt=media&token=b96ed43f-5d07-4825-a388-a618e5c83fc5"
+      },
+      {
+        "name": "Coming Up Short 2",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror/dp/B0CNSCMF9R",
+        "about": "A young boy has friends over to spend the night, but he is warned that he cannot allow\nthe tragedies of the past to repeat themselves. \nA man struggling with sin returns to his cabin in the woods to face his demons and is instead confronted\nby his dead wife.\nThe Antique Emporium is a store that appears out of nowhere to offer the finest of yesterday’s household \ngoods. It is run by a man as intent on selling his wares as he is devoted to filling the personal needs\nof his customers. But every antiquity comes with a warning. Sometimes the troubles we send away, stay away, \nand sometimes they return worse than they ever were. \nComing Up Short 2 is a collection of 8 tales of the macabre by the author of the award winning \nWithin the Fog series.\nWarning: These stories will keep you awake, nervously chewing at your fingernails, cringing at every little\ncreak of your home. Our reality is not what we have been led to believe. There are things out there, \nin the shadows watching, waiting for us to come within reach, and they are hungry.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus2.webp?alt=media&token=c8db7844-e086-4cf5-b756-aca4c01dfb7f"
+      },
+      {
+        "name": "Coming Up Short 3",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Audible-Coming-Up-Short-3/dp/B0CP8HZLM8",
+        "about": "A man finds his happiest life in the world inside his coma. He also finds that the difference between heaven and hell can be a very thin line.\nA man wakes on a cold basement floor staring at two women who are bound to their chairs. Across the room, a dead man lies in a pool of blood. He cannot recall who they are or even his own name. The women beg the man to free them, but something seems wrong. Maybe it is he who needs to be freed.\nOn a houseboat in the middle of a large lake, a retired couple experience a brief, strange flash of light. The next day, something tracks them from their boat to a nearby small town through the forest. What they find in the town is more horrifying than what awaits them on their return to the boat.\nComing Up Short 3 is a new collection of tales of the macabre by the author of the award winning Within the Fog series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus3.webp?alt=media&token=67b61162-b643-462b-97f9-a45a2520a3f0"
+      },
+      {
+        "name": "Coming Up Short 4",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror/dp/B0CQ69QCB4",
+        "about": "A man finds himself the subject of interrogation related to a break in at his home. Or does he? The line between reality and insanity is easily blurred and razor thin for Marv Stillman.\nTwo best friends join one another on yet another adventure, this time to the furthest remote corner of the Rocky Mountains. They seek evidence of an ever-elusive beast. What they don’t know is that sometimes the thing you should fear isn’t what hides in the woods, but the thing that’s been right in front of you all along.\nIn an elevator, a young woman and man find themselves stuck between floors with an old man who is anything but helpful. As their time in the unmoving car lengthens, there are signs that there is much more on the line than escaping their confinement. Who is the old man who seems to know far more about them than he should?\nComing Up Short 4 is a new collection of tales of the macabre by the author of the award winning Within the Fog and Killer of Killers series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus4.webp?alt=media&token=c7af9b99-c0d7-492b-8e93-d4e45c88bd18"
+      },
+      {
+        "name": "Coming Up Short 5",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror/dp/B0CSPQD8L2",
+        "about": "A man wakes locked in a cage, in a very dark place. One by one, the ghosts of his family appear to him. They share a message of healing, but not all is what it seems.\nA hitman is paid to eliminate the CEO of a powerful company, but when he makes a big bet with a local bookie, he realizes there’s much more to his current job than he ever knew. Can he survive the secrets he uncovers after seeing the man he killed alive and well?\nThe dead should stay dead. There’s a very good reason not to play God – when the dead return, they’re never the same. Jed knows this before he ever tries to bring back the love of his life, but he cannot stop himself. The absence of his love is more than he can bear and what comes back to him is more than he can handle.\nComing Up Short 5 is a new collection of tales of the macabre by the author of the award winning Within the Fog and Killer of Killers series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe. The truth of our existence can be found in the shadows and dark corners of our world. These are the places we Come Up Short.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus5.webp?alt=media&token=1afd2e1d-d61a-4917-8eec-124714347409"
+      },
+      {
+        "name": "Coming Up Short 6",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Twisted-Tales/dp/B0CVLXR3P9",
+        "about": "A woman desperately wants to escape the life she leads with her husband but discovers a reason to stay with him. The secrets he divulges while sleeping are making her wealthy, or so she thinks.\nA man fresh out of a divorce discovers that he may have purchased a haunted house. He feels he’s slowly losing his mind until he discovers a secret. The secret might just pave a way back to his wife, or it may kill him.\nOn a summer mountainside two former friends reconnect for a camping trip. All is well until a stranger arrives at their campsite in the middle of the night. For one of the women campers, the man who arrives isn’t so unfamiliar after all.\nComing Up Short 6 is a new collection of tales of the macabre and the mysterious by the author of the award winning Within the Fog series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe.\nFor fans of The Twilight Zone, the Coming Up Short series will be familiar, and intense territory!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus6.webp?alt=media&token=19bba213-9444-4c61-b76f-8f79bc7b69fa"
+      },
+      {
+        "name": "Coming Up Short 7",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror/dp/B0CWPS7R76",
+        "about": "A family moves into a scenic mountain town to start over. It is their intent to leave behind the violence and turmoil of their past. They find the perfect house situated on a large lake in the center of the town to begin the process of healing, but something is off. Lake Reflection is different. The negative energy and emotion they send out affects the large body of water and the townspeople are watching them very closely.\nA young couple pulls into a convenience store for gas and a few items. Inside the store, they meet some old acquaintances and a stranger. As the dark skies turn into a dangerous storm, someone plays a deadly game of manipulation. While they shelter from the storm, the stranger exposes their secrets, and the consequences are explosive.\nOn a summer evening a woman leaves home to run to the store. There, she sees a woman seeking help from the backseat of a car. Realizing the woman has been kidnapped, and that she had no phone to call the police, the woman follows the car into the open spaces of the country. Ultimately, she arrives at a remote house. It is there that she realizes she’s made the biggest mistake of her life and that there may be no way back home.\nComing Up Short 7 is a new collection of tales of the macabre and the mysterious by the author of the award winning Within the Fog series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe.\nFor fans of The Twilight Zone, the Coming Up Short series will be familiar, and intense territory!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus7.webp?alt=media&token=27cc557c-891d-416b-ac12-561719622d90"
+      },
+      {
+        "name": "Coming Up Short 8",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Coming-Up-Short-Psychological-Horror-ebook/dp/B0CVXSVDFF",
+        "about": "A young man knows he needs to escape the desperate financial clinging of his alcoholic mother. It’s well past time for him to have a life of his own, settle down with his girlfriend, and look to the future. He wants those things, but…something is wrong. He has forgotten something very important and needs to remember. The night the black classic Chevy shows up in the drive-thru at his work, it all comes crashing down on him, and suddenly, his future may not be what he hoped, not even close.\nWhen a young man sits at his bedroom window, staring into the death and destruction his neighborhood has become, he isn’t remorseful over all that’s been lost. Instead, he celebrates it, for the lawlessness that has overtaken the world has freed his creative, evil impulses. He’s a killer looking for one more death…or is he? There’s something about Michael that isn’t what it seems, not yet anyway.\nBeing allowed to make three wishes, and have anything she wants, isn’t appealing to Delia Martinez because she believes the old man who has offered such an opportunity to her is a fraud. When she realizes she was wrong, and that she is now encountering the opposite of her wishes she’ll move heaven and earth to get her three wishes back, but can she afford the price that will be asked of her? Sometimes making a deal isn’t just a deal when it comes to the devil.\nComing Up Short 8 is a new collection of tales of the macabre and the mysterious by the author of the award-winning Within the Fog series.\nWarning: These stories will keep you up late at night, nervously chewing your fingernails, cringing at every little creak of your home. Our reality may not be what you have been led to believe.\nFor fans of The Twilight Zone, the Coming Up Short series will be familiar, and twisted territory!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/cus8.webp?alt=media&token=469183ec-bfe0-4f5d-9b38-a8022300e874"
+      },
+      {
+        "name": "Wicked Games",
+        "category": "Horror",
+        "url": "https://www.amazon.com/Audible-Wicked-Games/dp/B0CZSGT6B8",
+        "about": "Being supremely wealthy is not all it’s cracked up to be…\nOnce you have every single possession your heart desires, once you have no room in any of your garages for yet another super car, and you do not need another mansion in another exclusive neighborhood…\nOnce your money has corrupted your sense of morality…\nWhen wealth can no longer keep your evil heart content…\nWhat do you do for fun?\nWhat do the rich do to entertain themselves?\nThe Club.\nThe elite, the wealthiest of the rich, have an ultra-exclusive club. The Club affords its members a reprieve from the mundane, from boredom. It offers them entertainment through the elimination of an enemy, or anyone else that their hearts desire.\nSomeone in The Club desires to eliminate Gianna Ricci. Someone wants her dead.\nBut who? And why?\nGianna will soon find out what the elite, the superbly wealthy do for entertainment.\nGianna will find out that those around her are not always who they seem to be.\nGianna will come to know what the elite do for fun…\nThey play Wicked Games.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/wickedGames.webp?alt=media&token=c3fb6861-2ea4-4e8c-8332-7e729713bce0"
+      }
+    ]
   },
   {
     "name": "Western Books",
-    "category": "Western",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/tj_books.json",
     "about": "Post Apocalyptic Western \n with TJ Reeder",
-    "image": ""
+    "books": [
+      {
+        "name": "Star Fall",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Audible-Star-Fall/dp/B0CD2YZHGZ",
+        "about": "Star Fall is a combination of Sci-Fi , the Old West and Survival after the remains of a huge Meteor spread over the earth. Follow the adventures of a strange mixture of adventurers called \"hunters\" who live by scavenging the remains of America ..",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Star%20Fall.webp?alt=media&token=784b89b9-b9cd-4d14-9a6d-7d2b23cf2d46"
+      },
+      {
+        "name": "ZOMBIES ... What if?",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Audible-Zombies-What-If/dp/B0CK9PBC2L",
+        "about": "This is a story about four young men; lifelong friends, who find themselves in a Zombie war. Being in their twenties, they all grew up on horror movies and video games. They watched every episode of The Walking Dead, and after each week's show, they spent the rest of the week tearing the show apart, covering all the 'what ifs', and 'why's' and filling it in with, \"If it was me, I woulda done ...\" So now they are in the middle of it and it's not a game. Now they have to do it for real. Can they? For my usual fans please don't stone me, I always swore I'd never write a Zombie book but I thought how much fun I could make it and so I did. It's not as gory in written form as of course Hollyweird would show it but it's hard to use the written word to convey somebody's guts being ripped out so I didn't bother. I hope you enjoy it and I expect to see a review saying yea or nea.\nYeah, I've gamed this stuff too and this is how I would do it, but I'd need some buddies watching my six.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/zombies_what_if.webp?alt=media&token=c42294b9-b451-484a-b943-46583bd60f61"
+      },
+      {
+        "name": "Buck and Bean",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Audible-Buck-and-Bean/dp/B0CDMP4K2Z",
+        "about": "Needing a break from the Long Lonely Road series I had decided to write a stand alone and this is the results. it had the usual crash and parts of the old west and a small bit of modern day things. I like the characters and if you folks like it I might do another one. Please let me know in a review, even a one word review if fine \"Good or Bad\"..",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Buck%20and%20Bean.webp?alt=media&token=9f9dbd3f-b263-4916-9068-001b7520a19d"
+      },
+      {
+        "name": "Buck and Bean, The Marshals, book two",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Marshals-Buck-Bean-Book-Two/dp/B0CF4KHV5Z",
+        "about": "Life on the new frontier after the crash. A blend of the old west and a bit of the leftover times before the crash.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/The%20Marshals%20Buck%20and%20Bean%2C%20Book%20Two.webp?alt=media&token=d7104114-7129-4282-be7c-715fe4fb614e"
+      },
+      {
+        "name": "Buck and Bean, Marshalls and Rangers, Book 3",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Marshalls-Rangers-Buck-Bean-Book/dp/B0CFWKCH2D",
+        "about": "This book was re-edited in 2023.\nLife in the old and new days, after the crash parts of the country, are living an 1880s lifestyle while others are in about the 1960s, Come along for the ride as the Baker Brothers chase outlaws as Territory Marshals.\n",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Buck%20and%20Bean%2C%20Marshalls%20and%20Rangers%2C%20Book%203.webp?alt=media&token=03c14d97-871b-48a3-bf35-40e7b96aab6f"
+      },
+      {
+        "name": "Buck and Bean, Double Trouble, Book 4",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Double-Trouble-Buck-Bean-Book/dp/B0CH3ZYWRM",
+        "about": "More in the life of the Baker brothers living life in the new frontier following the crash caused by several things plus a plague. They have built a new home and life in the modern old west.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Double%20Trouble%20Buck%20and%20Bean%20Book%204.webp?alt=media&token=32bbb793-d398-4a95-9dca-b663b1d5bc05"
+      },
+      {
+        "name": "Buck and Bean, Book 5. Bad Times Comin",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Buck-Bean-Book-Times-Comin/dp/B0CNKZXNH2",
+        "about": "Needing a break from the Long Lonely Road series I decided to write a stand alone and this is the result. it had the usual crash and parts of the old west and a small bit of modern-day things. I like the characters and if you folks like it I might do another one. Please let me know in a review, even a one-word review if fine \"Good or Bad\".. TJ\nWell, here is the proof yawl liked Buck and Bean, I'm now adding book five to the series. I really enjoy writing B&B and am planning number 6 as I speak.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Buck5.webp?alt=media&token=dbc87c5a-f98d-4e50-8c73-fc07bc69e4a5"
+      },
+      {
+        "name": "Jackson Slade, Book 1: The Frontiersman",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Frontiersman-Jackson-Slade-Book/dp/B0CT949XFG",
+        "about": "Jackson Slade, Confederate Soldier, Explorer, Scout and Gunfighter who thru a twist of fate will live history as it is made in the frontier of the West and beyond. For a very long time.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/JACKSON-SLADE-BOOK-1.webp?alt=media&token=d87d5d8c-44cf-41ef-ad12-c33699115232"
+      },
+      {
+        "name": "Jackson Slade, The Drifter, Book two",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Drifter-Jackson-Slade-Book-Two/dp/B0CVSB4ZVR",
+        "about": "The life and times of Jackson Slade a civil war survivor of the Army of the Confederacy and his very long and adventure filled life after the war, from small rancher to Indian scout to western Lawman to Soldier. Slade lives a long life through all the turmoil of a nation growing too fast. His loves and life will hopefully entertain you. Enjoy.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/jackson-slade-book-2.webp?alt=media&token=166d9c52-a762-48df-b7c1-546468c4d6d3"
+      },
+      {
+        "name": "Jackson Slade, Indian Fighter, book three",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Jackson-Slade-Indian-Fighter-Three/dp/B0CZF9K4RR",
+        "about": "The story of Jackson Slade, Soldier, Drifter, Indian fighter. Jackson's life spans many more years the it should because of an accidental discovery of a mysterious portal to another world and the further discovery of an even more mysterious cave with a glowing pool of water. Come ride with Slade as he fights, lives and loves across the many years.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/JS3jpg.webp?alt=media&token=043fc942-4d4f-45d6-9932-2b25ec9c6400"
+      },
+      {
+        "name": "The Free Republic of Texas 2015",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Free-Republic-Texas-2015/dp/B0CKZXZC8F",
+        "about": "Two men from very different backgrounds meet in a small café in rural Texas.Together they build a refuge and a stronghold for the remnants of a fallen nation. With their neighbors, they work to build something new using the old-fashioned values and ways. The Free Republic of Texas is born.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/The%20Free%20Republic%20of%20Texas%202015.webp?alt=media&token=9217ab82-5932-47a4-b192-ca462018197d"
+      },
+      {
+        "name": "DOMESTIC ENEMIES",
+        "category": "TJ Reeder",
+        "url": "https://www.amazon.com/Audible-Domestic-Enemies/dp/B0CS4HXKKB",
+        "about": "When he gets tired of seeing elected officials breaking the oath they made to the country, Jake Hunter decides to take matters into his own hands.\n\nFinding a few like-minded friends, they begin to carry out their mission. First, they use scare tactics to try to get those officials to keep the promises they made to get elected. When that doesn't make much difference, they resort to other measures. Some turning deadly.\n\nWill Jake and his friends make a difference? What about you...can you...will you make a difference when it's needed?",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/DOMESTIC-ENEMIES.webp?alt=media&token=ee3f03ab-0f1c-48ac-b859-14b61e06a5c0"
+      }
+    ]
   },
   {
     "name": "Drama Books",
-    "category": "Drama",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/drama_books.json",
     "about": "Drama Books",
-    "image": ""
+    "books": [
+      {
+        "name": "Black Start",
+        "category": "Drama",
+        "url": "https://www.amazon.com/Audible-Black-Start/dp/B0C9W8ZTQ5",
+        "about": "When an unprecedented cold front settled in over the state of Texas in the late winter of 2021, demand for electricity soared just while much of the power supply was disabled by the unrelenting deep-freeze conditions. Four million people were without power for weeks, and 150 people lost their lives. It could have been much, much worse.\n\nA power plant needs electricity to operate. If any plant were to shut down completely and be isolated from the grid, it will need an external source to restart, a complex procedure called “Black Start”.\n\nBlack Start is a novel that weaves the story of a highly competent Russian agent, Ivan Stravinsky, who has devised a scheme to replicate the conditions that attended the 2021 debacle in Texas, and then to disable the few unreliable and poorly maintained Black Start units scattered throughout the state. One small, independent-minded utility in West Texas is standing in his way as Stravinsky sets out to disrupt the entire economy of Texas.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/black-start.webp?alt=media&token=e76e3939-2774-410a-bf2e-ee7c7ba7d999"
+      },
+      {
+        "name": "Trios: Death, Deceit, and Politics",
+        "category": "Drama",
+        "url": "https://www.amazon.com/Trios-Death-Deceit-and-Politics/dp/B0C5S6HNQD",
+        "about": "Rita Collins, a reporter and writer for a local Washington DC television station, faces apparently unexplained rejection by her husband, who has suffered amputation of both legs during the Iraq War. He refuses both her affection and any attempts at rehabilitation.\n\nAt the same time, Rita is investigating a radical political cell on an elite college campus. With the help of her husband’s psychiatrist, she discovers that her marriage was doomed from the start because of its intricate ties to the career of her politically corrupt father-in-law, a Pennsylvania state senator, and his manipulative political advisor.\n\nOnce her initial grief gives way to anger, Rita uses her contacts within the news media to exact revenge on her father-in-law. On the same night she successfully covers a major campus riot, the revenge she fashions proves more destructive than she could have imagined.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/trios.webp?alt=media&token=e22651f3-9692-46c9-92eb-160c1908d91f"
+      }
+    ]
   },
   {
     "name": "Informative Books",
-    "category": "Informative",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/info_books.json",
     "about": "Informative Books",
-    "image": ""
+    "books": [
+      {
+        "name": "How to Sell Like a Drug Dealer: 21 Strategies to Hook Customers and Boost Sales: This Book Isn't About Selling Drugs!",
+        "category": "info",
+        "url": "https://www.amazon.com/How-Sell-Like-Artist-Customers/dp/B0CT42BDWT",
+        "about": "In How to Sell Like a Drug Dealer, step into the intriguing world of underground transactions and discover 21 captivating strategies that will transform your sales approach. Inspired by stories and insights from the shadows, this book offers a fresh perspective on effective selling techniques that can be adapted to the legitimate business world.\n\nUncover the secrets of successful drug dealers who mastered the art of persuasion, customer loyalty, and maximizing profits. Each strategy, crafted with wit and practicality, will empower you to build strong customer relationships, craft irresistible pitches, create scarcity, harness social proof, and more.\n\nThrough thought-provoking anecdotes and actionable advice, this book challenges conventional sales approaches and introduces innovative methods to captivate your audience. Dive into the world of The Hook Line, The Addiction Loop, The Fear Factor, and other intriguing strategies, all designed to hook customers and boost your sales game.\n\nWhile the stories presented in this book use fictitious names and draw inspiration from the underground realm, the underlying principles are universally applicable to any industry. Ethical selling, strong communication skills, and an understanding of customer psychology are at the core of each strategy.\n\nBy embracing the unconventional wisdom shared within these pages, you'll become a more persuasive, influential, and successful salesperson. Stand out in the competitive marketplace, build lasting customer loyalty, and achieve remarkable results.\n\nWhether you're a seasoned sales professional looking to enhance your skills or an aspiring entrepreneur seeking fresh insights, \nHow to Sell Like a Drug Dealer\n offers a unique and engaging roadmap to sales success. Take the leap and discover how these unconventional strategies can transform your sales approach, leaving a lasting impact on your career.\n\nScroll up, click the Buy Now\n\n button, and embark on a thrilling journey to master the art of selling like a drug dealer!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/How%20to%20Drug.webp?alt=media&token=80f0ab65-23b1-4492-ad12-27db3b12c10d"
+      },
+      {
+        "name": "How to Sell Like a Con Artist: 26 Tricks to Persuade Customers and Win People Over",
+        "category": "info",
+        "url": "https://www.amazon.com/How-Sell-Like-Artist-Customers/dp/B0CT42BDWT",
+        "about": "In How to Sell Like a Con Artist,\n\n Shaun Graff takes you on an intriguing journey into the world of persuasion, as seen through the eyes of the most unlikely teachers: con artists. This book is not a guide to deceit, but rather a unique exploration of the art of influence, distilled from the cunning tactics of con artists. Graff masterfully uncovers the psychological strategies used in cons and transforms them into ethical tools for effective selling, leadership, and everyday interactions.\n\nWhy learn from con artists? They are, after all, the masters of persuasion. Each chapter in this book reveals a different aspect of their craft, from creating unshakable belief to the art of storytelling, all translated into practical, ethical strategies for genuine influence. Whether you’re in sales, marketing, or simply aiming to improve your persuasive skills, this book offers invaluable insights.\n\nGraff’s approach is both practical and insightful, blending psychological theory with real-world applications. He turns the shadowy techniques of con artists into legitimate strategies for effective communication and influence, all while maintaining a strong ethical compass.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/How%20to%20Sell%20Like%20a%20Con%20Artist.webp?alt=media&token=344d0ec3-e52c-4a58-8883-754def69749d"
+      },
+      {
+        "name": "The 7 Habits of Highly Arrogant People: Trump Edition",
+        "category": "info",
+        "url": "https://www.amazon.com/Habits-Highly-Arrogant-People-Trump/dp/B0C87ZD5FX",
+        "about": "Introducing \"The Seven Habits of Highly Arrogant People: Trump Edition\" - the hilarious and thought-provoking parody guide that takes the art of arrogance to a whole new level.\n\nIn this Trump-inspired edition, you'll journey through the habits that defined one of the world's most polarizing figures. From Trump's unapologetic self-centeredness to his disdain for criticism, this book will have you chuckling, cringing, and questioning your own behavior.\n\nBut don't be mistaken; this book is not just a laugh-out-loud parody. It's a wake-up call to examine our own actions and break free from the clutches of arrogance. Through clever anecdotes and intellectual insights, you'll understand the dangers of unchecked self-importance and discover how to cultivate humility, empathy, and self-awareness.\n\nWhether you're seeking to improve your relationships, excel in your career, or grow as an individual, \"The Seven Habits of Highly Arrogant People: Trump Edition\" provides the indispensable tools and insights you need to shed the shackles of arrogance and embrace a more authentic and fulfilling life.\n\nSo, if you're ready to laugh, learn, and reflect on your behavior (and maybe even indulge in a little guilty pleasure), grab a copy of \"The Seven Habits of Highly Arrogant People: Trump Edition\" today. It's the perfect read for anyone who has encountered an arrogant person (or perhaps caught a glimpse of their reflection in the mirror).\n",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/trump.webp?alt=media&token=34a95122-b23d-42a3-bea5-8a59e23f7334"
+      },
+      {
+        "name": "Land of the Free Home of the Nationalists: The Rise of Christian Nationalism",
+        "category": "info",
+        "url": "https://www.amazon.com/Land-Free-Home-Nationalists-Nationalism/dp/B0CSHGQTQQ",
+        "about": "In this short treatise, historian Keith Pruitt examines the idea of the United States as a Christian Nation. First, examining the intent of the founding fathers and then their religious beliefs, Pruitt shows that the founders wanted to guarantee religious freedom while refusing to impose a state religion. The current movement of Christian Nationalism is further examined to attempt to determine what it is that these right-wing religious zealots are trying to achieve in this nation.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Audio%20Cover%20Land%20of%20the%20Free.jpg?alt=media&token=8e65f793-74ca-451e-a708-43c3665e1c95"
+      },
+      {
+        "name": "The Ultimate Siberian Husky Training Guide: The Definitive Guide to Finding, Preparing For, Training, Exercising, Feeding, All the Facts You Need to Know to Give Your Furry Friend the Best Start",
+        "category": "info",
+        "url": "https://www.amazon.com/Ultimate-Siberian-Husky-Training-Guide/dp/B0BTZB4D1X",
+        "about": "A revolutionary and comprehensive guide to everything pertaining to the Siberian Husky. This is a must-listen for any current or prospective Husky owner. Written by experienced Husky owner Mary Meisenzahl, this audiobook provides vital information on how best to live with, raise, and train a Siberian Husky.\n\nThis audiobook provides valuable knowledge on the origins of the Siberian Husky, as well as their unique personality traits that make them so popular with owners around the world. She also explores common behavioral issues associated with this type of canine companion, and ways in which owners can learn to manage these behaviors appropriately. With chapters dedicated to understanding common breeds associated with Siberian Huskies–including Alaskan Malamutes– listeners will gain an invaluable resource when it comes to making informed decisions about their pet's lifestyle needs.\n\nOverall, The Ultimate Siberian Husky Training Guide is truly indispensable for any current or aspiring husky parent looking for an all-encompassing resource outlining everything from practical advice on day-to-day care through to detailed descriptions of canine competitions available around the world. This audiobook is sure to provide invaluable insight into creating long lasting bonds between huskies and their owners!\n\nIn this audiobook, you'll will:\n\nLearn all about the unique characteristics and quirks of the Siberian Husky breed, such as their intelligence, energy levels, and vocalization habits.\nGet in-depth advice on early training strategies for your Husky puppy, including containment methods such as crate training and housebreaking.\nDiscover the best supplies and food to provide for your new pup, taking into account dietary restrictions, growth potential, and other health concerns.\nUnderstand helpful strategies for socializing your Husky with other dogs in order to maximize their interaction potential and reduce behavioral problems.\nInvestigate health care advice that you need to know for your Siberian Husky at every stage of their life, from puppyhood to adulthood.\nLearn helpful grooming tips that every Husky owner should be aware of in order to keep their pup looking their best! With this informative audiobook by your side, you will be able to provide the best care possible for your Husky throughout its entire life cycle.\nThis audiobook is the perfect guide for anyone looking to bring a Siberian Husky into their life. It will give you all the tips and tricks for raising a healthy and happy Husky, from finding the right breeder or rescue to choosing a vet and potty training. You'll get step-by-step advice to help you form a strong bond and lasting relationship with your new pup.\n\nWe'll provide answers to important questions like:\n\nIs a Siberian Husky really the right breed of dog for me?\nShould I purchase my Husky pup from a breeder, or look into adopting one from an animal rescue?\nWhat are some of the most common mistakes I should be aware of when bringing home my new puppy?\nWhat's the best way to properly train my Husky with positive reinforcement methods?\nYou'll also learn about topics such as nutrition, grooming needs, health concerns, exercise requirements, and other activities that will enrich your pup's life. We'll provide information on where you can find reputable breeders and rescues so you can find your perfect pooch quickly and easily. Plus, we'll even discuss more advanced topics like crate training your pup, teaching basic obedience commands, introducing them to other animals in the household, getting them used to being handled by strangers, socialization during puppyhood, and more!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/husky.webp?alt=media&token=1adebcc0-6247-4e88-9cf3-018d0f8e671c"
+      },
+      {
+        "name": "THE RED SEA and the PARTING: Exploring the Scientific Evidence of A Miracle",
+        "category": "info",
+        "url": "https://www.amazon.com/Red-Sea-Parting-Exploring-Scientific/dp/B0BX12V8YZ",
+        "about": "More than 3,000 years ago, an event so miraculous and awe-inspiring occurred, that it still intrigues believers, historians, and mythicists. The parting of the Red Sea is an epic scene in movies and the cover illustration on many Bibles.\n\nThis book endeavors to examine the various theories about the parting of the Red Sea to determine the correct location, the time period, and the historicity of the events from a biblical and scientific point of view.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/redsea.webp?alt=media&token=bac36c32-1b85-4f53-8766-5d01f594474f"
+      },
+      {
+        "name": "The Complete Guide to Financial Planning: Learn How to Manage Your Money and Build Wealth for a Secure Future",
+        "category": "info",
+        "url": "https://www.amazon.com/Complete-Guide-Financial-Planning-Manage/dp/B0C3NPJGMW",
+        "about": "Are you struggling to manage your money and achieve your financial goals? Do you want to learn how to build long-term wealth and achieve financial stability? Look no further than The Complete Guide to Financial Planning.\n\nThis comprehensive guide to personal finance covers everything from budgeting and debt management to investing and retirement planning. With practical tips and strategies for improving your financial situation, you'll learn how to make informed decisions about your money and achieve your financial goals.\n\nInside, you'll find:\n\nClear explanations of financial planning principles and strategies\nActionable tips for developing a financial plan and sticking to a budget\nStrategies for managing debt and improving your credit score\nInsight into different types of investments and retirement planning options\nGuidance on insurance, taxes, and real estate investing\nTips for financial planning for major life events, such as marriage and having children\nAnd much more!\nWritten in an accessible and easy-to-understand style, The Complete Guide to Financial Planning is perfect for anyone looking to improve their financial literacy and take control of their finances. Whether you're just starting out or looking to build wealth over time, this guide has everything you need to succeed.\n\nInvest in your financial future today with The Complete Guide to Financial Planning.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/finance.webp?alt=media&token=f3771c8a-3ff4-4b59-a5cc-1a661109fd5d"
+      },
+      {
+        "name": "FAST AND FURIOUS FITNESS: A timeless fitness classic - one for the ages!",
+        "category": "info",
+        "url": "https://www.amazon.com/Audible-Fast-and-Furious-Fitness/dp/B0BXBG4HF3",
+        "about": "So, I’ve finally done it! I’ve finally done what I never ever thought I would do–that being to revive the “old favorite”. In other words, dust the first fitness book I ever wrote off the shelves, and bring it back to life now!\n\nThat being the “evergreen” Fast and Furious Fitness–a book that received a tremendous reception back when I first released it in 2011–and judging from the 5000 plus fans on the Facebook page, is still going strong!\n\nAnyway, for whatever reason, and despite the positive response my first book received, I incredulously and astoundingly did not purse the idea any further. Although the intent was there, for whatever reason, I never pursued the idea. That is, until when I started Zero Excuses Fitness, that is.\n\nMark the date on your calendars, my friend–Monday October 15, 2018–and I’m starting off a new week with an old classic–a classic which has information that is still very relevant to everyone out there. If you’ve listened to Zero Excuses Fitness and enjoyed it, you’ll enjoy this as well.\n\nAnd hear me out on this one–although Zero Excuses Fitness was modeled on the Fast and Furious Fitness book, the two are NOT the same–and you’ll see what I mean when you listen to the book.\n\nFast and Furious Fitness has several routines and exercises that Zero Excuses Fitness doesn’t. Fast and Furious Fitness is a book that much like Zero Excuses Fitness, can be used by folks at all levels–especially for those of you at beginner levels, but the exercises in there will work just as well for advanced trainees as well.\n\nWhile the basic core of both the books are the same, the training philosophy differs. You’ll see a different spin on the same sort of topics throughout the entire book, and especially the 10 Commandments of Physical Success.\n\nBut now, the big question–if I’ve got Zero Excuses Fitness out there, and if it’s doing well, then why the fuss about Fast and Furious Fitness? Why resurrect it, as it were? Well, the answer to that one is simple my friend. It’s an old classic–and I love old classics. Whether it be Napoleon Hill’s Think and Grow Rich, Claude Bristol’s evergreen “The Magic of Believing” or “T.N.T.\"–the fact is that I love classics, and many of you do as well!\n\nWhat you’ll learn from this course:\n\nSolid training information emphasizing good old fashioned hard work, determination, and dedication.\nTraining programs that work–and are simple to do–and most importantly, get things done quickly.\nHow you can build loads of muscle on your calves and thighs, while at the same time building strength and endurance–all within 10 minutes or less!\nBuild a strong, functional midsection without doing a single crunch!\nDevelop brute strength throughout your entire back and upper body.\nHow to build huge forearms and develop the crushing power of an ape while your at it!\nThe one exercise that will build shoulders that have the strength of a male gorilla, and look like they are carved out of granite!\nAdvice on what sort of diet to follow for best gains.\nThe 10 commandments of any successful training regimen.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/fitness.webp?alt=media&token=3519deb9-e912-4d5f-ab0f-e073a24b0437"
+      },
+      {
+        "name": "The Battle of Spotsylvania Court House: Cannons and Courage: The Stories Behind the American Civil War's Major Battles, Book 9 ",
+        "category": "info",
+        "url": "https://www.amazon.com/Battle-Spotsylvania-Court-House-American/dp/B0C9VSGYZR",
+        "about": "The American Civil War stands as one of the defining moments in the history of the United States. Fought between the Northern states, known as the Union, and the Southern states, known as the Confederacy, the war was a profound struggle for the preservation of the Union and the abolition of slavery. Lasting from 1861 to 1865, it claimed the lives of over 600,000 Americans and forever altered the nation's trajectory.\n\nIn the pantheon of significant battles during the Civil War, the Battle of Spotsylvania Court House holds a special place. Taking place from May 8 to May 21, 1864, in Spotsylvania County, Virginia, this brutal engagement pitted the forces of Union General Ulysses S. Grant against Confederate General Robert E. Lee. The battle would become a turning point in the war, marked by intense fighting, tactical innovations, and a grim determination to achieve victory at any cost.\n\nThe importance of the Battle of Spotsylvania Court House cannot be understated. It was a critical juncture in the larger conflict, serving as a fulcrum upon which the fate of the nation teetered. This battle emerged as a crucible where the mettle of the opposing armies and their commanders was tested, pushing the limits of military strategy and tactics. The outcome of this struggle would reverberate through the subsequent course of events and shape the war's trajectory.\n\nThe Battle of Spotsylvania Court House was a pivotal moment in the American Civil War, signaling a shift in strategy and setting the stage for the relentless pursuit of victory by General Ulysses S. Grant. This battle, characterized by its brutality and tactical innovations, not only showcased the resolve of the Union forces but also exposed the resilience of the Confederate Army under the leadership of General Robert E. Lee. Moreover, the battle's impact extended beyond its immediate aftermath, altering the dynamics of the war and paving the way for the eventual Union triumph.\n\nThis book delves into the depths of the Battle of Spotsylvania Court House, unraveling the events that led to this significant clash and examining its consequences. It will provide a comprehensive account of the battle, shedding light on the strategies, tactics, and the sacrifices made by both sides. By exploring the struggles faced by the soldiers on the front lines, the decisions made by the commanding officers, and the societal implications of this protracted conflict, we aim to paint a vivid picture of this crucial turning point in the American Civil War.\n\nThroughout the following chapters, we will traverse the battlefields, maneuver through the trenches, and encounter the heroes and casualties of this brutal struggle. From the opening skirmishes to the decisive moments at the \"Bloody Angle,\" we will examine the intricate details of the battle, the stalemate that ensued, and the lasting consequences that reverberated across the nation.\n\nBy delving into the Battle of Spotsylvania Court House, we can gain a deeper understanding of the pivotal moments that shaped the outcome of the Civil War. This battle serves as a testament to the endurance, valor, and sacrifice exhibited by the soldiers on both sides, as well as the strategic decisions and innovations that influenced the course of the conflict.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/spotsy.jpg?alt=media&token=ca21bc5d-5f69-4d7a-ac62-77dbc9b00b30"
+      },
+      {
+        "name": "Travel Tales: Ghost Encounters (True Travel Tales) ",
+        "category": "info",
+        "url": "https://www.amazon.com/Audible-Travel-Tales-Ghost-Encounters/dp/B0C471Y88F",
+        "about": "Collects Michael Brein's ghostly accounts of the nearly 2,000 interviews with travelers he has met in his own travels around the world over the last four decades.\n\nAlthough the typical travel stories collected in the True Travel Tales book series are ordinarily oriented towards safety and security in travel, the very scary and spooky accounts of ghosts and hauntings and all the variations in between can and do occur to travelers. Mostly these things will not happen to you. But you never know. You'll read in the series plenty of examples of the wide variety of spirit and ghost encounters that may pop up now and again in your travels as well as your own home life. \n\nThis book, however, pauses all of this. Instead of dealing with all sorts of true accounts of close calls and great escapes in connection with all sorts of scary travel situations including chases, foiled kidnappings, attacks, roadblocks, scary places, trips from hell, borders, and police, hitchhiking, international spying, smuggling, and intrigue, being in the wrong places at the wrong times, terror attacks, bandits, Mexican standoffs, airplane crashes, accidents and mishaps, white slavery, robberies, sexual harassment and assaults and more — the series now pauses to explore the spooky world of ghosts and spirits and many of the no doubt related variations in between!\n\nInstead of reading about the dangers and mishaps of others, whereby you'll focus on and gain healthier respect for the true dangers and risks of travel and adventure... the point of this book is purely to explore a virtually little known aspect of reality. By all means, haunted places abound, and where it was heretofore a forbidden subject to bring up, it is now relatively good sport to seek out haunted establishments and even to write down your experiences in a variety of guestbooks and ledgers provided at these establishments for just that purpose.\n\nAnd make no mistake, whereas some of these stories are profoundly scary and unnerving, many are the stuff of keepsake memories and smack of efforts on the part of spirits to be recognized and even be remembered.\n\nMany of the scary accounts of travelers in this book are tales of times gone by. Many ghosts seem to be intent on making others remember them. Other ghost experiences seem to be never-ending repeating replays of cycles of discarnate entities seemingly trying to resolve conflicts of times long gone by.\n\nYes, indeed, we are often the recipients of visits from ghosts and spirits on our own home turfs. It, therefore, behooves us to think of this book as not only a compendium of ghostly visits that we seek out or experience despite ourselves in our travels, but perhaps we ought to consider the visits of ghosts and spirits as similarly traveling themselves in a way from their own alternate space-time realities which conjoin or overlap with ours in one massive Contiguous Universe?\n\nIn this Reader or compendium of ghost and spirit tales, we broaden our look at not merely what we think of as the typical shadows, spirits, or apparitions reported by so many, but also to a much broader reality of similarly related behaviors of presumably a wide variety discarnate supernatural entities that cut across in mysterious ways broad swaths of what we may typically refer to as ghost or spirit visitations and their interactions with us.\n\nSuch ghostly encounters may not ever happen expressly to you, but assuredly something strange of an apparitional manifestation will invariably happen to a friend, a neighbor, or perhaps even a relative.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/ghost.webp?alt=media&token=bd88ffce-5e2b-495d-abb8-8edd87c35fa3"
+      },
+      {
+        "name": "What Is Sikhism?: Understanding the Punjabi Indian Religion",
+        "category": "info",
+        "url": "https://www.amazon.com/What-Sikhism-Understanding-Punjabi-Religion/dp/B0C9VKPT4Q",
+        "about": "Sound interesting? The author thinks so too! Listen to What Is Sikhism? for an understanding of the culture and religion of Sikhism as it compares to Christianity.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/simhism.webp?alt=media&token=cc718935-dd0e-43ea-a22a-8a1fb49274cc"
+      },
+      {
+        "name": "50 Things to Know About Finding Mr. Right: Get the Guy You Deserve (50 Things to Know about Love) ",
+        "category": "info",
+        "url": "https://www.amazon.com/Things-Know-About-Finding-Right/dp/B0CMYCZKDD",
+        "about": "Do you find yourself sad and depressed that you have not found the right man?\n\nAre you constantly asking yourself what you are doing wrong and why someone does not love you? Instead of wanting to go to weddings do you feel so envious that you would rather stay home then celebrate in someone's joy?\n\nIf you answered yes to any of these questions, then this book is for you....\n\n50 Things to Know About Finding Mr. Right: Get the Guy You Deserve, by Amanda Walton, offers an unique approach to trying to solve the dating problems that you might have had in the past.\n\nMost books on finding Mr. Right tell you to put yourself out there, to search for him, and to try and find your one and only.\n\nAlthough there's nothing wrong with that, it is far better to work on yourself. You can become a better person and be someone that everyone wants to date. Once you make yourself into the person you have always dreamed of being you will find that your dreams of finding Mr. Right will come true, too.\n\nBased on knowledge from the world's leading experts far too many women are desperate enough to find Mr. Right that they try to make Mr. Right Now into the person of their dreams. They find themselves in unhappy relationships, with men that they are not attracted to, and with out any desire to try and make their relationship stronger.\n\nIn this audio, you'll discover the keys to finding Mr. Right. You will learn how to build yourself up so that you are the best possible person for him when he does come along.\n\nThis book will help you to take a closer look at how you see yourself, to learn to see the positives that you have, and how you can use these positives to attract the right type of man.\n\nBy the time you finish this book, you will know how to find your own Mr. Right.\n\nSo grab your copy today. You'll be glad you did.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/find-a-man.webp?alt=media&token=fc7f84ba-ce36-4ef6-b112-c410d6afa55f"
+      }
+    ]
   },
   {
     "name": "Poetry Books",
-    "category": "Poetry",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/poetry_books.json",
     "about": "Poetry Books",
-    "image": ""
+    "books": [
+        {
+          "name": "Poems from a Helper",
+          "category": "Poetry",
+          "url": "https://www.amazon.com/Audible-Poems-from-a-Helper/dp/B0CXJMWH5D",
+          "about": "A collection of poems written over a ten year span extracting emotion and experience from the helping field. Reflections on relationships, pain, death, love, and joy. These poems will delight the mind and the rouse heart.",
+          "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Poems%20from%20a%20Helper.webp?alt=media&token=03d918f2-50f3-4505-a651-c9d0dc395ab5"
+        }
+    ]
   },
   {
     "name": "Children's Books",
-    "category": "Children",
-    "url": "https://raw.githubusercontent.com/jrheisler/jeff-talks/main/lib/models/children_books.json",
     "about": "Children's Books",
-    "image": ""
+    "books": [
+        {
+          "name": "This Means War (The Dogs Party Saga): Children Bedtime Tales Audible Logo",
+          "category": "Children",
+          "url": "https://www.amazon.com/This-Means-Dogs-Party-Saga/dp/B0CZSG2FRL",
+          "about": "In the heart of the neighborhood park, a rivalry ignites between two factions of dogs: the refined and sophisticated \"Pawsome Pals\" and the adventurous and spirited \"Ruff Riders.\" What begins as a friendly competition soon escalates into an all-out feud, with each side determined to prove their dominance.\n\nIn This Means War: The Dogs Party Saga,\" listeners are invited into a world where loyalty, friendship, and courage collide in the most unexpected ways. From the thrilling bark-offs to the heartwarming bonds that form amidst the chaos, this collection of short stories captures the essence of canine camaraderie in all its glory.\n\nFollow the Pawsome Pals and the Ruff Riders as they navigate the challenges of rivalry, friendship, and self-discovery. With rich sensory details and vivid descriptions, each chapter immerses listeners in the sights, sounds, and smells of the park, bringing the canine characters to life in a way that will capture the hearts of listeners of all ages.\n\nThrough laughter and tears, triumphs and setbacks, \nThis Means War: The Dogs Party Saga\" reminds us that true friendship knows no bounds and that sometimes, the greatest adventures can be found right in our own backyard. So grab your leash and join the pack for a tail-wagging adventure like no other!",
+          "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/This%20Means%20War.webp?alt=media&token=f6498e9d-e34b-4dc8-8b2e-6b24889c11c4"
+        }
+    ]
   }
 ]
