@@ -300,5 +300,18 @@
           "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/This%20Means%20War.webp?alt=media&token=f6498e9d-e34b-4dc8-8b2e-6b24889c11c4"
         }
     ]
+  },
+  {
+    "name": "Mystery",
+    "about": "Mystery Presents",
+    "books": [
+      {
+        "name": "Revelation",
+        "category": "Children",
+        "url": "https://www.amazon.com/Mystery-Method-Revelation-DVD-Audio/dp/B001GBXF8G?ref_=ast_author_dp",
+        "about": "This is a brand new product by Mystery, Lovedrop, and Matador from VH1's The Pick-Up Artist. This is the new and improved Mystery Method, with all new updates from the current dating scenes. Mystery and the enitre crew will reveal the entire reason the game works and will make you understand the ultimate dynamics of making some serious chemistry. You'll finally understand exactly why Mystery is the best in the world at playing the game! Then, you'll be able to watch Matador, Mystery and Lovedrop go into detail with real life examples of how men just like you have been able to increase their value in the eyes of the opposite sex. From this set alone you will learn what it takes to become the perfect player! That is the power of Revelation. It takes the game to the next level - so you can always get the highest score! This 300+ page ebook answers every question you could ever have about how to pick up women and copy Mystery's unparalleled success. He doesn't simply tell you what to do - he explains exactly why these methods work. You'll end up with a greater understanding of women than any man has ever had before.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Revelation-Ask-Mystery.webp?alt=media&token=6e6fd03c-c335-46f1-be6c-37c1fba76fba"
+      }
+    ]
   }
 ]
