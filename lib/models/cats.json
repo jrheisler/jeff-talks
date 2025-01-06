@@ -120,7 +120,18 @@
         "url": "https://www.amazon.com/Audible-Flesh-Feast-Guts-Gore/dp/B0DRLC13NQ/ref=tmm_aud_swatch_0?_encoding=UTF8&qid=&sr=",
         "about": "Step into the twisted world of \"Flesh Feast: Guts & Gore\", a splatterpunk collection by C. A. Baynam that rips apart the boundaries of horror and dives into the darkest corners of human depravity.\n\nEach story pushes the limits of gore, violence, and unrelenting terror.",
         "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Written%20by%20Jeremey%20Eads.webp?alt=media&token=56b7f6aa-89c1-4361-8c3c-94300a75caa4"
-      }
+      },
+      {
+        "name": "Horror and Gore",
+        "about": "A Study in Gore \n with CA Baynam",
+        "books": [
+          {
+            "name": "Dark Affairs",
+            "category": "Gore",
+            "url": "https://www.amazon.com/dp/B0DSCNL9FJ/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=",
+            "about": "Betrayal has a price—and for Tailor, that price is beyond anything she could have imagined.\n\nTailor's sins are laid bare in a nightmarish prison of her own making. Once a woman of power and control, she now lies confined in a glass casket, buried alive and left to suffer a fate worse than death.\n\nBut this is no accident. Her husband, Charlie, orchestrates her slow, torturous demise as punishment for the lies, betrayals, and murder that tore their lives apart. There is no escape, no mercy, only the endless terror of being consumed alive.\n\nFor those who crave a story of vengeance, agony, and inescapable horror, Dark Affairs delivers a chilling descent into extreme suffering and psychological torment. This is Tailor’s reckoning, and every second is a nightmare she can never wake from.",
+            "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Dark%20Affairs%20acx.jpg?alt=media&token=e908f778-f308-4f22-88fa-6f4ecc22a525"
+          }
 
     ]
   },
