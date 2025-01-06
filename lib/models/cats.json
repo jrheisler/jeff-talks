@@ -122,17 +122,12 @@
         "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Written%20by%20Jeremey%20Eads.webp?alt=media&token=56b7f6aa-89c1-4361-8c3c-94300a75caa4"
       },
       {
-        "name": "Horror and Gore",
-        "about": "A Study in Gore \n with CA Baynam",
-        "books": [
-          {
-            "name": "Dark Affairs",
-            "category": "Gore",
-            "url": "https://www.amazon.com/dp/B0DSCNL9FJ/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=",
-            "about": "Betrayal has a price—and for Tailor, that price is beyond anything she could have imagined.\n\nTailor's sins are laid bare in a nightmarish prison of her own making. Once a woman of power and control, she now lies confined in a glass casket, buried alive and left to suffer a fate worse than death.\n\nBut this is no accident. Her husband, Charlie, orchestrates her slow, torturous demise as punishment for the lies, betrayals, and murder that tore their lives apart. There is no escape, no mercy, only the endless terror of being consumed alive.\n\nFor those who crave a story of vengeance, agony, and inescapable horror, Dark Affairs delivers a chilling descent into extreme suffering and psychological torment. This is Tailor’s reckoning, and every second is a nightmare she can never wake from.",
-            "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Dark%20Affairs%20acx.jpg?alt=media&token=e908f778-f308-4f22-88fa-6f4ecc22a525"
-          }
-
+        "name": "Dark Affairs",
+        "category": "Gore",
+        "url": "https://www.amazon.com/dp/B0DSCNL9FJ/ref=tmm_aud_swatch_0?_encoding=UTF8&sr=",
+        "about": "Betrayal has a price—and for Tailor, that price is beyond anything she could have imagined.\n\nTailor's sins are laid bare in a nightmarish prison of her own making. Once a woman of power and control, she now lies confined in a glass casket, buried alive and left to suffer a fate worse than death.\n\nBut this is no accident. Her husband, Charlie, orchestrates her slow, torturous demise as punishment for the lies, betrayals, and murder that tore their lives apart. There is no escape, no mercy, only the endless terror of being consumed alive.\n\nFor those who crave a story of vengeance, agony, and inescapable horror, Dark Affairs delivers a chilling descent into extreme suffering and psychological torment. This is Tailor’s reckoning, and every second is a nightmare she can never wake from.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Dark%20Affairs%20acx.jpg?alt=media&token=e908f778-f308-4f22-88fa-6f4ecc22a525"
+      }
     ]
   },
   {
@@ -360,26 +355,26 @@
     "name": "Poetry Books",
     "about": "Poetry Books",
     "books": [
-        {
-          "name": "Poems from a Helper",
-          "category": "Poetry",
-          "url": "https://www.amazon.com/Audible-Poems-from-a-Helper/dp/B0CXJMWH5D",
-          "about": "A collection of poems written over a ten year span extracting emotion and experience from the helping field. Reflections on relationships, pain, death, love, and joy. These poems will delight the mind and the rouse heart.",
-          "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Poems%20from%20a%20Helper.webp?alt=media&token=03d918f2-50f3-4505-a651-c9d0dc395ab5"
-        }
+      {
+        "name": "Poems from a Helper",
+        "category": "Poetry",
+        "url": "https://www.amazon.com/Audible-Poems-from-a-Helper/dp/B0CXJMWH5D",
+        "about": "A collection of poems written over a ten year span extracting emotion and experience from the helping field. Reflections on relationships, pain, death, love, and joy. These poems will delight the mind and the rouse heart.",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/Poems%20from%20a%20Helper.webp?alt=media&token=03d918f2-50f3-4505-a651-c9d0dc395ab5"
+      }
     ]
   },
   {
     "name": "Children's Books",
     "about": "Children's Books",
     "books": [
-        {
-          "name": "This Means War (The Dogs Party Saga): Children Bedtime Tales Audible Logo",
-          "category": "Children",
-          "url": "https://www.amazon.com/This-Means-Dogs-Party-Saga/dp/B0CZSG2FRL",
-          "about": "In the heart of the neighborhood park, a rivalry ignites between two factions of dogs: the refined and sophisticated \"Pawsome Pals\" and the adventurous and spirited \"Ruff Riders.\" What begins as a friendly competition soon escalates into an all-out feud, with each side determined to prove their dominance.\n\nIn This Means War: The Dogs Party Saga,\" listeners are invited into a world where loyalty, friendship, and courage collide in the most unexpected ways. From the thrilling bark-offs to the heartwarming bonds that form amidst the chaos, this collection of short stories captures the essence of canine camaraderie in all its glory.\n\nFollow the Pawsome Pals and the Ruff Riders as they navigate the challenges of rivalry, friendship, and self-discovery. With rich sensory details and vivid descriptions, each chapter immerses listeners in the sights, sounds, and smells of the park, bringing the canine characters to life in a way that will capture the hearts of listeners of all ages.\n\nThrough laughter and tears, triumphs and setbacks, \nThis Means War: The Dogs Party Saga\" reminds us that true friendship knows no bounds and that sometimes, the greatest adventures can be found right in our own backyard. So grab your leash and join the pack for a tail-wagging adventure like no other!",
-          "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/This%20Means%20War.webp?alt=media&token=f6498e9d-e34b-4dc8-8b2e-6b24889c11c4"
-        }
+      {
+        "name": "This Means War (The Dogs Party Saga): Children Bedtime Tales Audible Logo",
+        "category": "Children",
+        "url": "https://www.amazon.com/This-Means-Dogs-Party-Saga/dp/B0CZSG2FRL",
+        "about": "In the heart of the neighborhood park, a rivalry ignites between two factions of dogs: the refined and sophisticated \"Pawsome Pals\" and the adventurous and spirited \"Ruff Riders.\" What begins as a friendly competition soon escalates into an all-out feud, with each side determined to prove their dominance.\n\nIn This Means War: The Dogs Party Saga,\" listeners are invited into a world where loyalty, friendship, and courage collide in the most unexpected ways. From the thrilling bark-offs to the heartwarming bonds that form amidst the chaos, this collection of short stories captures the essence of canine camaraderie in all its glory.\n\nFollow the Pawsome Pals and the Ruff Riders as they navigate the challenges of rivalry, friendship, and self-discovery. With rich sensory details and vivid descriptions, each chapter immerses listeners in the sights, sounds, and smells of the park, bringing the canine characters to life in a way that will capture the hearts of listeners of all ages.\n\nThrough laughter and tears, triumphs and setbacks, \nThis Means War: The Dogs Party Saga\" reminds us that true friendship knows no bounds and that sometimes, the greatest adventures can be found right in our own backyard. So grab your leash and join the pack for a tail-wagging adventure like no other!",
+        "image": "https://firebasestorage.googleapis.com/v0/b/jeff-talks.appspot.com/o/This%20Means%20War.webp?alt=media&token=f6498e9d-e34b-4dc8-8b2e-6b24889c11c4"
+      }
     ]
   },
   {
